@@ -2,7 +2,7 @@
     "name": "Calculator App",
     "short_name": "calculator",
     "theme_color": "#ff9cf3",
-    "background_color": "#99eaff",
+    "background_scolor": "#99eaff",
     "display": "browser",
     "scope": "/",
     "start_url": "/"
