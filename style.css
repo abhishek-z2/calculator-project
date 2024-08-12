@@ -24,7 +24,7 @@ body{
 }
 
 #display{
-    font-size:72px;
+    font-size:48px;
     padding-right: 10px;
     font-family: monospace;
     border: 3px solid black;
