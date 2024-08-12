@@ -34,13 +34,18 @@ body{
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+    overflow:hidden;
 }
+
+ 
 
 #btn-container{
     flex:1 1 80%;  
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    user-select: none;
+
 }
 
 #btn-container .btn-item{
