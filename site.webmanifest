@@ -3,7 +3,7 @@
     "short_name": "calculator",
     "theme_color": "#ff9cf3",
     "background_scolor": "#99eaff",
-    "display": "browser",
+    "display":"standalone",
     "scope": "/",
     "start_url": "/"
   }
